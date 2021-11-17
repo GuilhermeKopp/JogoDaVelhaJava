@@ -1,7 +1,7 @@
 
 <h1 align="center"> Jogo da Velha com JAVA: </h1>
 
-  <h2 align="center"> Inicio </h2>
+  <h2 align="center"> Início </h2>
    <a href="#">
     <img align="center" width="700" src="Inicio.PNG" />
   </a>
