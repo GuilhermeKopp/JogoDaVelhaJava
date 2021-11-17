@@ -2,7 +2,6 @@
 
 Jogo da Velha com JAVA:
 
-<p align="center">
   Inicio:
   <a href="#">
     <img align="center" width="700" src="Inicio.PNG" />
@@ -17,4 +16,3 @@ Jogo da Velha com JAVA:
   <a href="#">
     <img align="center" width="700" src="Empate.PNG" />
   </a>
-</p>
