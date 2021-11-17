@@ -1,18 +1,17 @@
-# JogoDaVelhaJava
 
-Jogo da Velha com JAVA:
+<h1 align="center"> Jogo da Velha com JAVA: </h1>
 
-  Inicio:
-  <a href="#">
+  <h2 align="center"> Inicio </h2>
+   <a href="#">
     <img align="center" width="700" src="Inicio.PNG" />
   </a>
  
-  Vitoria:
+  <h2 align="center"> Vitoria </h2>
   <a href="#">
     <img align="center" width="700" src="Win.PNG" />
   </a>
   
-  Empate:
+  <h2 align="center"> Empate </h2>
   <a href="#">
     <img align="center" width="700" src="Empate.PNG" />
   </a>
