@@ -2,12 +2,12 @@
 
 <p align="center">
   <a href="#">
-    <img src="Inicio.PNG" />
+    <img align="center" width="700" src="Inicio.PNG" />
   </a>
   <a href="#">
-    <img src="Win.PNG" />
+    <img align="center" width="700" src="Win.PNG" />
   </a>
   <a href="#">
-    <img src="Empate.PNG" />
+    <img align="center" width="700" src="Empate.PNG" />
   </a>
 </p>
